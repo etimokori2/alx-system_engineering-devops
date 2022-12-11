@@ -1,4 +1,4 @@
 #!/bin/bash
 echo -e "Hello, World \n"
-chmod +x 0-hello_world
-chmod 755 0-hello_world
+
+
